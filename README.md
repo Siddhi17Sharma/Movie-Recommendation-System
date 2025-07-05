@@ -62,7 +62,7 @@ API_KEY = "your_tmdb_api_key_here"
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/movie-recommender.git
+git clone https://github.com/Siddhi17Sharma/movie-recommender.git
 cd movie-recommender
 
 # Install dependencies
@@ -98,8 +98,3 @@ Open your browser at `http://localhost:8501`.
 - IMDb/RottenTomatoes integration
 - Pagination or infinite scroll
 
----
-
-## 📄 License
-
-MIT License © 2025 [Your Name]
